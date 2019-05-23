@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    >
+<item
+    android:id="@+id/home"
+    android:title="Home"
+    >
+</item>
+    <item
+        android:id="@+id/setting"
+        android:title="Subject"
+        >
+
+    </item>
+    <item
+        android:id="@+id/exm"
+        android:title="Exam"
+        >
+
+    </item>
+    <item
+        android:id="@+id/rte"
+        android:title="Rate us"
+        >
+
+    </item>
+    <item
+        android:id="@+id/admin"
+
+        android:title="Admin Pannel">
+
+    </item>
+
+    <item
+        android:id="@+id/log"
+
+        android:title="Logout">
+
+    </item>
+
+    <item
+
+
+        android:title="Development mode">
+
+    </item>
+</menu>
